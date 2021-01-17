@@ -1,0 +1,3 @@
+08:10:59 PM: WARNING [logger.py:15] mensaje a nivel warning
+08:10:59 PM: INFO [logger.py:16] mensaje a nivel info
+08:10:59 PM: ERROR [logger.py:18] Ocurrió un error en la base de datos

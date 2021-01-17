@@ -1,0 +1,1614 @@
+08:32:00 PM:,DEBUG:,[Conexion.py:,26:],Obteniendo pool exitosamente cls.__pool:
+08:32:36 PM:,DEBUG:,[Conexion.py:,26:],Obteniendo pool exitosamente cls.__pool:
+08:32:36 PM:,ERROR:,[Conexion.py:,37:],Error al obtener la conexion 'NoneType' object has no attribute 'conn':
+08:33:50 PM:,DEBUG:,[Conexion.py:,26:],Obteniendo pool exitosamente cls.__pool:
+08:33:50 PM:,ERROR:,[Conexion.py:,37:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:35:19 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:35:19 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:35:25 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:35:25 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:38:15 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:38:15 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:38:52 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:38:52 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:43:05 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:43:05 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:47:52 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:52:19 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:52:19 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:53:01 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:53:01 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+08:53:01 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+08:54:08 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:54:08 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x02AA73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:54:08 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+08:55:47 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:55:47 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x027B73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:55:47 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+08:56:55 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+08:56:55 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x02DE73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:56:55 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+07:14:32 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:14:32 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x029473B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:14:32 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+07:18:18 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:18:18 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x02FA73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:18:18 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+07:18:26 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:18:26 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x025173B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:18:26 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+07:18:44 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:18:44 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x027E73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:18:44 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool:
+07:22:15 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:22:15 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x032B73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:22:16 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool type object 'Conexion' has no attribute '_Conexion__Obtener_pool':
+07:23:28 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:23:28 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x029A73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:23:28 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool type object 'Conexion' has no attribute '_Conexion__Obtener_pool':
+07:24:25 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:24:25 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x024473B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:24:25 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool type object 'Conexion' has no attribute '_Conexion__Obtener_pool':
+07:24:52 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:24:52 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x031673B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:24:52 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool type object 'Conexion' has no attribute '_Conexion__Obtener_pool':
+07:24:55 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:24:55 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x024973B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:24:55 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool type object 'Conexion' has no attribute '_Conexion__Obtener_pool':
+07:25:56 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:25:56 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x029373B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:25:56 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool type object 'Conexion' has no attribute '_Conexion__Obtener_pool':
+07:26:32 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:26:32 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x022A73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:26:32 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:26:56 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:26:56 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x028473B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:26:56 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:30:39 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:30:39 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x02F773B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:30:39 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+07:30:39 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:30:39 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:45 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:34:45 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x033173B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:34:45 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+07:34:45 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:45 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:48 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:34:48 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x026073B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:34:48 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+07:34:48 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:48 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:51 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:34:51 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x02D373B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:34:51 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+07:34:51 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:51 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:54 PM:,DEBUG:,[Conexion.py:,27:],Obteniendo pool exitosamente cls.__pool:
+07:34:54 PM:,DEBUG:,[Conexion.py:,36:],Obteniendo conexion exitosamente <connection object at 0x029C73B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+07:34:54 PM:,ERROR:,[Conexion.py:,39:],Error al obtener la conexion 'NoneType' object has no attribute 'getconn':
+07:34:54 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:34:54 PM:,ERROR:,[Conexion.py:,47:],Error al liberar el pool 'NoneType' object has no attribute 'putconn':
+07:56:09 PM:,DEBUG:,[Conexion2.py:,25:],Conexion existosa <psycopg2.pool.SimpleConnectionPool object at 0x018F8160>:
+07:59:00 PM:,DEBUG:,[Conexion2.py:,25:],pool existosa <psycopg2.pool.SimpleConnectionPool object at 0x02AE8298>:
+08:11:36 PM:,DEBUG:,[Conexion2.py:,25:],pool existosa <psycopg2.pool.SimpleConnectionPool object at 0x01178298>:
+08:15:03 PM:,ERROR:,[Conexion2.py:,29:],Error en la conexion type object 'Conexion2' has no attribute '_Conexion2__port_db':
+08:47:26 PM:,ERROR:,[Conexion2.py:,29:],Error en la conexion type object 'Conexion2' has no attribute '_Conexion2__port_db':
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:20 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:21 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:22 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:23 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:24 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:25 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:26 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:27 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:27 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:27 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:28 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:29 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:09:30 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+09:10:01 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:
+01:53:58 PM:,DEBUG:,[Main.py:,3:],Elige una opcion
+1.Seleccionar
+2.Insertar
+3.Actualizar
+4.Eliminar
+:

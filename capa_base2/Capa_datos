@@ -1,0 +1,410 @@
+06:15:45 PM:,ERROR:,[Conexion.py:,26:],Error en la conexion invalid dsn: invalid connection option "databases"
+:
+06:15:46 PM:,ERROR:,[Conexion.py:,26:],Error en la conexion invalid dsn: invalid connection option "databases"
+:
+06:15:47 PM:,ERROR:,[Conexion.py:,26:],Error en la conexion invalid dsn: invalid connection option "databases"
+:
+06:19:39 PM:,ERROR:,[Conexion.py:,25:],Error en la conexion type object 'Conexion' has no attribute '_Conexion__base_de_datos':
+06:19:50 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x022DA288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:19:50 PM:,DEBUG:,[Conexion.py:,67:],<connection object at 0x022DA288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:21:05 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x023CA288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:21:05 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+06:21:12 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E7A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:21:12 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+06:28:44 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02B6A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:28:44 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+06:29:08 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0301A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:29:08 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+06:29:19 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02C9A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+06:29:19 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02A889A8; closed: 0>:
+06:29:19 PM:,DEBUG:,[Conexion.py:,69:],<cursor object at 0x02A889A8; closed: 0>:
+07:39:23 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02D864E8; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:39:23 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02B856A8; closed: 0>:
+07:39:24 PM:,ERROR:,[PersonaDAO.py:,24:],Error en la consulta fmodule 'logging' has no attribute 'debud':
+07:39:24 PM:,DEBUG:,[PersonaDAO.py:,31:],None:
+07:39:51 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02FFE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:39:51 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02DEAB28; closed: 0>:
+07:39:51 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+07:39:51 PM:,DEBUG:,[PersonaDAO.py:,31:],[<Persona.Persona object at 0x01948298>]:
+07:42:55 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0250E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:42:55 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x00FCAB28; closed: 0>:
+07:42:55 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+07:42:55 PM:,DEBUG:,[PersonaDAO.py:,32:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+07:44:57 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02B6E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:44:57 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0294AB28; closed: 0>:
+07:44:57 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+07:44:57 PM:,DEBUG:,[PersonaDAO.py:,32:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+07:45:12 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02D5E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:45:12 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02B1AB28; closed: 0>:
+07:45:12 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+07:51:02 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x027EE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:51:02 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x026EAB28; closed: 0>:
+07:51:02 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+07:51:03 PM:,ERROR:,[Conexion.py:,49:],Error al cerrar el cursor 'module' object is not callable:
+07:51:20 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0263E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:51:20 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0253AB28; closed: 0>:
+07:51:20 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+07:51:20 PM:,ERROR:,[Conexion.py:,49:],Error al cerrar el cursor 'module' object is not callable:
+07:53:04 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02D6A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:53:04 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02B589A8; closed: 0>:
+07:53:04 PM:,DEBUG:,[Conexion.py:,69:],<cursor object at 0x02B589A8; closed: 0>:
+07:53:24 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0310A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:53:24 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02EF89A8; closed: 0>:
+07:53:44 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0289A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:53:44 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x026589A8; closed: 0>:
+07:53:44 PM:,ERROR:,[Conexion.py:,49:],Error al cerrar el cursor 'module' object is not callable:
+07:56:02 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0273A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:56:02 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x025189A8; closed: 0>:
+07:56:02 PM:,ERROR:,[Conexion.py:,50:],Error al cerrar el cursor 'module' object is not callable:
+08:01:50 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02DBA288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:01:50 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x010A89A8; closed: 0>:
+08:01:50 PM:,ERROR:,[Conexion.py:,50:],Error al cerrar el cursor 'module' object is not callable:
+08:04:22 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0222A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:04:23 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x020289A8; closed: 0>:
+08:04:23 PM:,ERROR:,[Conexion.py:,50:],Error al cerrar el cursor 'module' object is not callable:
+08:04:48 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x028EA288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:04:48 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x013C89A8; closed: 0>:
+08:06:57 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E2A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:06:57 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x012289A8; closed: 0>:
+08:06:57 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:07:16 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x03191450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:07:16 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02F4AD28; closed: 0>:
+08:07:16 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+08:07:16 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:07:16 PM:,DEBUG:,[PersonaDAO.py:,33:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+08:07:28 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0253E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:07:28 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0230AB28; closed: 0>:
+08:07:28 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+08:07:28 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:07:28 PM:,DEBUG:,[PersonaDAO.py:,33:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+08:08:23 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0312E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:08:23 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02F0AB28; closed: 0>:
+08:08:23 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:08:23 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:09:53 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E3E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:09:53 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02D1AB28; closed: 0>:
+08:09:53 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:09:53 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:09:55 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0227E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:09:55 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0215AB28; closed: 0>:
+08:09:55 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:09:55 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:09:57 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02FEE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:09:57 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x01BCAB28; closed: 0>:
+08:09:57 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:09:57 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:10:00 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x030CE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:10:00 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02F8AB28; closed: 0>:
+08:10:00 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:10:00 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:10:02 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0238E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:10:02 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0099AB28; closed: 0>:
+08:10:02 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:10:02 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:10:04 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02BCE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:10:04 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0297AB28; closed: 0>:
+08:10:04 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:10:04 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:10:06 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02A5E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:10:06 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0295AB28; closed: 0>:
+08:10:06 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:10:06 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:10:41 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0316E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:10:41 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02F4AB28; closed: 0>:
+08:10:41 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY Id_persona;':
+08:10:42 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY Id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:11:39 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x021FE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:11:39 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x008BAB28; closed: 0>:
+08:11:39 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:11:39 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:12:55 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02FEE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:12:55 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02ECAB28; closed: 0>:
+08:12:55 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:12:55 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:12:58 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0260E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:12:58 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0250AB28; closed: 0>:
+08:12:58 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:12:58 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:13:00 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02D8E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:13:00 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02C8AB28; closed: 0>:
+08:13:00 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona;':
+08:13:00 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:13:13 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x027FE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:13:14 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x025BAB28; closed: 0>:
+08:13:14 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY nombre;':
+08:13:14 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "nombre" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY nombre;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Nombre".
+:
+08:13:17 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02D7E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:13:17 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02B4AB28; closed: 0>:
+08:13:17 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY nombre;':
+08:13:17 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "nombre" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY nombre;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Nombre".
+:
+08:13:19 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02EDE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:13:19 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02D9AB28; closed: 0>:
+08:13:19 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY nombre;':
+08:13:19 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "nombre" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY nombre;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Nombre".
+:
+08:15:11 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E7E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:15:11 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02B4AB28; closed: 0>:
+08:15:11 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona desc;':
+08:15:11 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona desc;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:15:14 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02F0E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:15:14 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x018DAB28; closed: 0>:
+08:15:14 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona desc;':
+08:15:14 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona desc;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:15:17 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02F6E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:15:17 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02D5AB28; closed: 0>:
+08:15:17 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ORDER BY id_persona desc;':
+08:15:17 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 ORDER BY id_persona desc;
+                                          ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:15:59 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0272E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:15:59 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0261AB28; closed: 0>:
+08:15:59 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 p ORDER BY p.nombre desc;':
+08:15:59 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn p.nombre does not exist
+LINE 1: SELECT * FROM  personas2 p ORDER BY p.nombre desc;
+                                            ^
+HINT:  Perhaps you meant to reference the column "p.Nombre".
+:
+08:16:43 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E3E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:16:43 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02D3AB28; closed: 0>:
+08:16:43 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 p ORDER BY p.Nombre desc;':
+08:16:43 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn p.nombre does not exist
+LINE 1: SELECT * FROM  personas2 p ORDER BY p.Nombre desc;
+                                            ^
+HINT:  Perhaps you meant to reference the column "p.Nombre".
+:
+08:16:45 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02F6E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:16:46 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02E5AB28; closed: 0>:
+08:16:46 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 p ORDER BY p.Nombre desc;':
+08:16:46 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn p.nombre does not exist
+LINE 1: SELECT * FROM  personas2 p ORDER BY p.Nombre desc;
+                                            ^
+HINT:  Perhaps you meant to reference the column "p.Nombre".
+:
+08:17:11 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x025CE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:17:11 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0239AB28; closed: 0>:
+08:17:11 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 ;':
+08:17:11 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:17:11 PM:,DEBUG:,[PersonaDAO.py:,33:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+08:17:31 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0317E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:17:31 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02F3AB28; closed: 0>:
+08:17:31 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2 where id_persona=2;':
+08:17:31 PM:,ERROR:,[PersonaDAO.py:,25:],Error en la consulta fcolumn "id_persona" does not exist
+LINE 1: SELECT * FROM  personas2 where id_persona=2;
+                                       ^
+HINT:  Perhaps you meant to reference the column "personas2.Id_persona".
+:
+08:17:51 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0225E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:17:51 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x0205AB28; closed: 0>:
+08:17:51 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+08:17:51 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:17:51 PM:,DEBUG:,[PersonaDAO.py:,33:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+08:17:56 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02DAE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:17:56 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02B5AB28; closed: 0>:
+08:17:56 PM:,DEBUG:,[PersonaDAO.py:,14:],b'SELECT * FROM  personas2;':
+08:17:57 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:17:57 PM:,DEBUG:,[PersonaDAO.py:,33:],Id_persona=1,Nombre=Ricardo,Apellido=Altamirano,Correo=ricardo@gmail.com:
+08:50:14 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x022CE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:50:14 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02098B28; closed: 0>:
+08:50:14 PM:,DEBUG:,[PersonaDAO.py:,33:],b'INSERT INTO personas2(nombre,apellido,correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+08:50:14 PM:,DEBUG:,[PersonaDAO.py:,34:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+08:50:14 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:50:20 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x026EE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:50:20 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x025C8B28; closed: 0>:
+08:50:20 PM:,DEBUG:,[PersonaDAO.py:,33:],b'INSERT INTO personas2(nombre,apellido,correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+08:50:20 PM:,DEBUG:,[PersonaDAO.py:,34:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+08:50:20 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:53:15 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x027774E8; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:53:15 PM:,ERROR:,[PersonaDAO.py:,42:],Error al insertar 'psycopg2.extensions.connection' object has no attribute 'Obtener_cursor':
+08:53:15 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:53:43 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0241E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:53:43 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:53:43 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:54:45 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02EFE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:54:45 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:54:45 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:55:00 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02C4E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:55:00 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:55:00 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:55:27 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0305E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:55:27 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:55:27 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:55:39 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02B4E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:55:39 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:55:39 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:57:21 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0307E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:57:21 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:57:21 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:59:33 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x029D5450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:59:33 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:59:33 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:14:13 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0254E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:14:13 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:14:13 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:14:26 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02EBE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:14:26 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:14:26 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:15:30 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x024FA288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:15:30 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x009E99A8; closed: 0>:
+07:15:30 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:16:08 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x029FE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:16:08 PM:,ERROR:,[PersonaDAO.py:,42:],Error al insertar 'psycopg2.extensions.connection' object has no attribute 'Obtener_cursor':
+07:16:08 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:16:49 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x024FE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:16:49 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(nombre,apellido,correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:16:50 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+07:16:50 PM:,ERROR:,[PersonaDAO.py:,42:],Error al insertar column "nombre" of relation "personas2" does not exist
+LINE 1: INSERT INTO personas2(nombre,apellido,correo) VALUES(nombre=...
+                              ^
+:
+07:16:50 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:18:14 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02DDE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:18:14 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:18:15 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:18:23 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02FDE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:18:23 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:18:23 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:18:33 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0275E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:18:33 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02558B28; closed: 0>:
+07:18:33 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(nombre,apellido,correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:18:33 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+07:18:33 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:21:13 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x025DE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:21:13 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x023C8B28; closed: 0>:
+07:21:13 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(Nombre,Apellido,Correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:21:13 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+07:21:13 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:21:20 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0233E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:21:20 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x00D08B28; closed: 0>:
+07:21:20 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(Nombre,Apellido,Correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:21:21 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+07:21:21 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:24:18 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0278E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:24:18 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x02588B28; closed: 0>:
+07:24:18 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(Nombre,Apellido,Correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:24:18 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+07:24:18 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:24:48 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x029EE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:24:48 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x027D8B28; closed: 0>:
+07:24:48 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(Nombre,Apellido,Correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:24:48 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=victor,Nombre=joto,Apellido=Maricon,Correo=None:
+07:24:48 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:28:21 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x023FE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:28:21 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x021A8BA8; closed: 0>:
+07:28:21 PM:,DEBUG:,[PersonaDAO.py:,34:],b'INSERT INTO personas2(Nombre,Apellido,Correo) VALUES(nombre=%s,apellido=%s,correo=%s);':
+07:28:21 PM:,DEBUG:,[PersonaDAO.py:,35:],Persona a insertar Id_persona=None,Nombre=victor,Apellido=joto,Correo=Maricon:
+07:28:21 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:36:01 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0310E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:36:01 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:36:01 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:36:03 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E6E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:36:03 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:36:03 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:38:16 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02B7E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:38:16 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:38:17 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:46:59 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0241E288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:46:59 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:46:59 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:48:22 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02AA2450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:48:22 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor type object 'Conexion' has no attribute 'Conexion':
+07:48:22 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:51:39 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02E02450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:51:39 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:51:39 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:53:43 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02882450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:53:43 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:53:43 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:57:24 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02332450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:57:24 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor type object 'Conexion' has no attribute 'Obtener_conexion':
+07:57:24 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:57:48 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02AAE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:57:48 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor type object 'Conexion' has no attribute 'Obtener_conexion':
+07:57:49 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:59:22 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0293A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:59:22 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x027199A8; closed: 0>:
+07:59:39 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x0224A288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:59:39 PM:,DEBUG:,[Conexion.py:,35:],Cursor abierto <cursor object at 0x020399A8; closed: 0>:
+07:59:39 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+07:59:47 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02FE2450; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+07:59:47 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+07:59:47 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:00:02 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x029FE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:00:02 PM:,ERROR:,[Conexion.py:,38:],Error al abrir el cursor 'NoneType' object has no attribute 'cursor':
+08:00:02 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:00:38 PM:,DEBUG:,[Conexion.py:,22:],Conexion exitosa <connection object at 0x02CFE288; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>:
+08:00:38 PM:,ERROR:,[PersonaDAO.py:,42:],Error al insertar 'NoneType' object has no attribute 'cursor':
+08:00:38 PM:,DEBUG:,[Conexion.py:,64:],Se cerraron los objetos de cursor y conexion:
+08:00:38 PM:,DEBUG:,[PersonaDAO.py:,54:],persona ingresada None:

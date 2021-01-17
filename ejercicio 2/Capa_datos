@@ -1,0 +1,458 @@
+08:14:13 PM:,DEBUG:,[Conexion.py:,23:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02515BE0>:
+08:17:17 PM:,DEBUG:,[Conexion.py:,23:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x027A8148>:
+08:17:17 PM:,DEBUG:,[Conexion.py:,32:],Obteniedo conexion <connection object at 0x02A5E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:28:47 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00B98178>:
+08:28:47 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0215E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:28:48 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0215E3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:28:48 PM:,DEBUG:,[Conexion.py:,44:],liberando pool None:
+08:29:22 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00BC8178>:
+08:29:22 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0235E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:29:23 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0235E3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:29:23 PM:,DEBUG:,[Conexion.py:,44:],liberando pool None:
+08:29:23 PM:,DEBUG:,[Conexion.py:,44:],liberando pool None:
+08:34:14 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x022F8160>:
+08:34:14 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0259E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:34:15 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0259E3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:34:15 PM:,DEBUG:,[Conexion.py:,44:],liberando pool None:
+08:34:15 PM:,DEBUG:,[Conexion.py:,44:],liberando pool None:
+08:34:15 PM:,DEBUG:,[Conexion.py:,53:],Cerrando conexion:
+08:37:39 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00658160>:
+08:37:39 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0212E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:37:40 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0212E3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:37:40 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x0212E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:37:40 PM:,ERROR:,[Conexion.py:,47:],Error al devolver el pool type object 'Conexion' has no attribute '_pool':
+08:38:03 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00BB8160>:
+08:38:03 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0224E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:38:04 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0224E3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:38:04 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x0224E288; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+08:38:04 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00BB8160>:
+08:38:04 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x0224E3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 1>:
+08:38:05 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00BB8160>:
+08:38:05 PM:,DEBUG:,[Conexion.py:,54:],Cerrando conexion:
+10:18:15 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x029C81D8>:
+10:18:15 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02D7B320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:18:15 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+10:18:16 PM:,DEBUG:,[Cursor_pool.py:,31:],[(1, 'Ricardo', 'nene'), (2, 'Rodrigo', 'pocho'), (3, 'Gabriela', 'cats')]:
+10:18:16 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+10:18:16 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+10:18:16 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02D7B320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:18:16 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x029C81D8>:
+10:18:16 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+10:24:42 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x01258298>:
+10:24:42 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x032014E8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:24:42 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+10:24:47 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x012A8298>:
+10:24:47 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0283C320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:24:47 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+10:25:27 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00B38298>:
+10:25:27 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x022FD320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:25:27 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+10:25:28 PM:,DEBUG:,[UsuarioDAO.py:,15:],lista:
+10:25:28 PM:,DEBUG:,[UsuarioDAO.py:,17:],(1, 'Ricardo', 'nene'):
+10:25:28 PM:,DEBUG:,[UsuarioDAO.py:,17:],(2, 'Rodrigo', 'pocho'):
+10:25:28 PM:,DEBUG:,[UsuarioDAO.py:,17:],(3, 'Gabriela', 'cats'):
+10:25:28 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+10:25:28 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+10:25:28 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x022FD320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:25:29 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00B38298>:
+10:25:29 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+10:25:29 PM:,DEBUG:,[UsuarioDAO.py:,23:],None:
+10:28:28 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x013F8298>:
+10:28:28 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02ACD320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:28:28 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+10:28:28 PM:,DEBUG:,[UsuarioDAO.py:,16:],lista:
+10:28:28 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+10:28:28 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+10:28:28 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02ACD320; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:28:28 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x013F8298>:
+10:28:28 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+10:28:29 PM:,DEBUG:,[UsuarioDAO.py:,26:],[<Usuario.Usuario object at 0x013F81D8>, <Usuario.Usuario object at 0x02ADE4C0>, <Usuario.Usuario object at 0x02ADE520>]:
+10:31:03 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00BC8298>:
+10:31:03 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0258C3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:31:03 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+10:31:03 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+10:31:04 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+10:31:04 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+10:31:04 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+10:31:04 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x0258C3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+10:31:04 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00BC8298>:
+10:31:04 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+10:31:04 PM:,DEBUG:,[UsuarioDAO.py:,27:],[<Usuario.Usuario object at 0x00BC81D8>, <Usuario.Usuario object at 0x0259B4C0>, <Usuario.Usuario object at 0x0259B520>]:
+11:01:59 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x0291C4A8>:
+11:01:59 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x029083B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:01:59 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:01:59 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+11:06:45 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x028BC4A8>:
+11:06:45 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x028A83B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:06:45 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:06:45 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+11:07:34 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02F9C4A8>:
+11:07:34 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02F893B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:07:34 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:07:34 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+11:07:57 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x0329C4A8>:
+11:07:57 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x032893B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:07:58 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:07:58 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+11:07:59 PM:,DEBUG:,[UsuarioDAO.py:,28:],Usuario Insertado:
+11:07:59 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+11:07:59 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+11:07:59 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x032893B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:07:59 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x0329C4A8>:
+11:07:59 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+11:07:59 PM:,DEBUG:,[UsuarioDAO.py:,54:],1:
+11:19:53 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02CFC4A8>:
+11:19:53 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02CE83B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:19:53 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:19:53 PM:,DEBUG:,[UsuarioDAO.py:,34:],b'UPDATE persona SET nombre=%s,contrase\xc3\xb1a=%s, WHERE id_usuario=%s;':
+11:19:53 PM:,DEBUG:,[UsuarioDAO.py:,35:],Usuario a actualizar Id_usuario:4Nombre:javierContraseña:javi:
+11:21:11 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x023AC4A8>:
+11:21:11 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x023983B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:21:11 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:21:11 PM:,DEBUG:,[UsuarioDAO.py:,34:],b'UPDATE persona SET nombre=%s,contrase\xc3\xb1a=%s WHERE id_usuario=%s;':
+11:21:11 PM:,DEBUG:,[UsuarioDAO.py:,35:],Usuario a actualizar Id_usuario:4Nombre:javierContraseña:javi:
+11:21:11 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+11:21:11 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+11:21:11 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x023983B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:21:11 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x023AC4A8>:
+11:21:12 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+11:23:20 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x030BC4A8>:
+11:23:20 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x030AC3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:23:20 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:23:21 PM:,DEBUG:,[UsuarioDAO.py:,42:],b'DELETE persona WHERE id_usuario=%s;':
+11:23:21 PM:,DEBUG:,[UsuarioDAO.py:,43:],Eliminando usuarioId_usuario:4Nombre:NoneContraseña:None:
+11:24:41 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02D0C4A8>:
+11:24:41 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02CF83B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:24:41 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+11:24:42 PM:,DEBUG:,[UsuarioDAO.py:,42:],b'DELETE FROM persona WHERE id_usuario=%s;':
+11:24:42 PM:,DEBUG:,[UsuarioDAO.py:,43:],Eliminando usuarioId_usuario:4Nombre:NoneContraseña:None:
+11:24:42 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+11:24:42 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+11:24:42 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02CF83B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+11:24:42 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02D0C4A8>:
+11:24:42 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+08:58:39 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+:
+09:02:52 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+:
+09:02:54 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+:
+09:07:15 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:07:19 PM:,ERROR:,[Main.py:,25:],Esa opcion no existe en el menu
+Escoja una opcion que se muestra en el menu de opciones:
+09:07:19 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:07:25 PM:,ERROR:,[Main.py:,25:],Esa opcion no existe en el menu
+Escoja una opcion que se muestra en el menu de opciones:
+09:07:25 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:07:27 PM:,ERROR:,[Main.py:,25:],Esa opcion no existe en el menu
+Escoja una opcion que se muestra en el menu de opciones:
+09:07:27 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:08:21 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:08:48 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:08:51 PM:,ERROR:,[Main.py:,25:],
+Esa opcion no existe en el menu
+Escoja una opcion que se muestra en el menu de opciones:
+09:08:52 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:09:48 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:09:50 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:09:54 PM:,DEBUG:,[Main.py:,7:],Opciones
+1.Ver la lista de usuario en el servidor
+2.Agragar nuevo usuario ala base de datos
+3.Actualizar a un usuario
+4.Eliminar a un usuario en el servidor
+5.Salir:
+09:16:55 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02C88298>:
+09:16:55 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02F493B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:16:55 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:16:55 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:16:55 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:16:55 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:16:55 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:16:55 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02F493B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:16:55 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02C88298>:
+09:16:55 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:18:31 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02D88298>:
+09:18:31 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x0314A3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:18:31 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:18:31 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:18:31 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:18:31 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:18:31 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:18:31 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x0314A3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:18:31 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02D88298>:
+09:18:31 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:20:18 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00D68298>:
+09:20:18 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02914580; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:20:18 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:20:18 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:20:18 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:20:18 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:20:18 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:20:18 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02914580; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:20:18 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00D68298>:
+09:20:18 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:22:16 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02A98298>:
+09:22:16 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02E74580; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:22:16 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:22:16 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:22:16 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:22:16 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:22:16 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:22:16 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02E74580; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:22:16 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02A98298>:
+09:22:16 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:29:38 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x00818298>:
+09:29:38 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x021CA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:29:38 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:29:38 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:29:38 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:29:38 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:29:38 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:29:38 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x021CA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:29:39 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00818298>:
+09:29:39 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:30:04 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x021CA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:30:04 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:30:04 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+09:30:04 PM:,DEBUG:,[UsuarioDAO.py:,28:],Usuario Insertado:
+09:30:04 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:30:04 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:30:04 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x021CA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:30:04 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00818298>:
+09:30:04 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:30:08 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x021CA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:30:08 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:30:08 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:30:08 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:30:08 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:30:08 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:30:08 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x021CA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:30:08 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x00818298>:
+09:30:08 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:36:42 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02018208>:
+09:36:42 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:36:42 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:36:42 PM:,DEBUG:,[UsuarioDAO.py:,34:],b'UPDATE persona SET nombre=%s,contrase\xc3\xb1a=%s WHERE id_usuario=%s;':
+09:36:42 PM:,DEBUG:,[UsuarioDAO.py:,35:],Usuario a actualizar Id_usuario:4     Nombre:Juan     Contraseña:Juanitobanana       :
+09:36:42 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:36:42 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:36:42 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:36:42 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02018208>:
+09:36:42 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:36:46 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:36:46 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:36:46 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:36:46 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:36:46 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:36:46 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:36:46 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:36:46 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02018208>:
+09:36:46 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:37:29 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:37:29 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:37:29 PM:,DEBUG:,[UsuarioDAO.py:,34:],b'UPDATE persona SET nombre=%s,contrase\xc3\xb1a=%s WHERE id_usuario=%s;':
+09:37:29 PM:,DEBUG:,[UsuarioDAO.py:,35:],Usuario a actualizar Id_usuario:5     Nombre:Juan     Contraseña:juanitobanana       :
+09:37:29 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:37:29 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:37:29 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:37:29 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02018208>:
+09:37:29 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:37:31 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:37:31 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:37:31 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:37:31 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:37:31 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:37:31 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:37:31 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x023DA3B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:37:31 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02018208>:
+09:37:31 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:39:16 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x027E8208>:
+09:39:16 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02BC93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:39:16 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:39:16 PM:,DEBUG:,[UsuarioDAO.py:,34:],b'UPDATE persona SET nombre=%s,contrase\xc3\xb1a=%s WHERE id_usuario=%s;':
+09:39:16 PM:,DEBUG:,[UsuarioDAO.py:,35:],Usuario a actualizar Id_usuario:5     Nombre:Juan     Contraseña:Juanchometro       :
+09:39:16 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:39:16 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:39:16 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02BC93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:39:16 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x027E8208>:
+09:39:16 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:39:17 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02BC93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:39:17 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:39:18 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:39:18 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:39:18 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:39:18 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:39:18 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02BC93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:39:18 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x027E8208>:
+09:39:18 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:42:27 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x02C38208>:
+09:42:27 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02FE93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:42:27 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:42:27 PM:,DEBUG:,[UsuarioDAO.py:,42:],b'DELETE FROM persona WHERE id_usuario=%s;':
+09:42:27 PM:,DEBUG:,[UsuarioDAO.py:,43:],Eliminando usuarioId_usuario:8     Nombre:None     Contraseña:None       :
+09:42:27 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:42:27 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:42:27 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02FE93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:42:27 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x02C38208>:
+09:42:27 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:42:44 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x024B8208>:
+09:42:44 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:42:44 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:42:44 PM:,DEBUG:,[UsuarioDAO.py:,42:],b'DELETE FROM persona WHERE id_usuario=%s;':
+09:42:44 PM:,DEBUG:,[UsuarioDAO.py:,43:],Eliminando usuarioId_usuario:5     Nombre:None     Contraseña:None       :
+09:42:44 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:42:44 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:42:44 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:42:44 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x024B8208>:
+09:42:44 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:42:46 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:42:46 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:42:46 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:42:46 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:42:46 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:42:46 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:42:46 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:42:46 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x024B8208>:
+09:42:46 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:45:09 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:45:09 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:45:09 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+09:45:09 PM:,DEBUG:,[UsuarioDAO.py:,28:],Usuario Insertado:
+09:45:09 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:45:09 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:45:09 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:45:09 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x024B8208>:
+09:45:09 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:45:10 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:45:10 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:45:10 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:45:10 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:45:10 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:45:10 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:45:10 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x028793B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:45:10 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x024B8208>:
+09:45:10 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:50:51 PM:,DEBUG:,[Conexion.py:,24:],Obteniendo pool <psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:50:51 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:50:51 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:50:51 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:50:51 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:50:51 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:50:51 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:50:51 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:50:51 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:50:51 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:51:08 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:08 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:51:08 PM:,DEBUG:,[UsuarioDAO.py:,34:],b'UPDATE persona SET nombre=%s,contrase\xc3\xb1a=%s WHERE id_usuario=%s;':
+09:51:08 PM:,DEBUG:,[UsuarioDAO.py:,35:],Usuario a actualizar Id_usuario:6     Nombre:Uriel     Contraseña:Urielitomix       :
+09:51:08 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:51:09 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:51:09 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:09 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:51:09 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:51:09 PM:,INFO:,[Main.py:,33:],Actualizacion de usuario Id_usuario:6     Nombre:Uriel     Contraseña:Urielitomix       :
+09:51:15 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:16 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:51:16 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:51:16 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:51:16 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:51:16 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:51:16 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:16 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:51:16 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:51:38 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:38 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:51:38 PM:,DEBUG:,[UsuarioDAO.py:,25:],b'INSERT INTO persona(nombre,contrase\xc3\xb1a)VALUES(%s,%s);':
+09:51:38 PM:,DEBUG:,[UsuarioDAO.py:,28:],Usuario Insertado:
+09:51:38 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:51:38 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:51:38 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:38 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:51:38 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:51:38 PM:,INFO:,[Main.py:,25:],Usuario insertado Id_usuario:None     Nombre:Francisco     Contraseña:Franky       :
+09:51:41 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:41 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:51:41 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:51:41 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:51:41 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:51:41 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:51:41 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:41 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:51:41 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:51:54 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:54 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:51:54 PM:,DEBUG:,[UsuarioDAO.py:,42:],b'DELETE FROM persona WHERE id_usuario=%s;':
+09:51:54 PM:,DEBUG:,[UsuarioDAO.py:,43:],Eliminando usuarioId_usuario:6     Nombre:None     Contraseña:None       :
+09:51:54 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:51:54 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:51:55 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:55 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:51:55 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:
+09:51:55 PM:,INFO:,[Main.py:,39:],Eliminacion de usuario Id_usuario:6     Nombre:None     Contraseña:None       :
+09:51:56 PM:,DEBUG:,[Conexion.py:,35:],Obteniedo conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:56 PM:,DEBUG:,[Cursor_pool.py:,12:],Abriendo el cursor:
+09:51:56 PM:,DEBUG:,[UsuarioDAO.py:,13:],b'SELECT *FROM persona;':
+09:51:57 PM:,DEBUG:,[UsuarioDAO.py:,17:],lista:
+09:51:57 PM:,DEBUG:,[Cursor_pool.py:,21:],Guardando commit:
+09:51:57 PM:,DEBUG:,[Cursor_pool.py:,24:],Cerrando cursor:
+09:51:57 PM:,DEBUG:,[Conexion.py:,44:],liberando esta conexion <connection object at 0x02AA93B8; dsn: 'user=postgres password=xxx dbname=labo host=127.0.0.1 port=5432', closed: 0>:
+09:51:57 PM:,DEBUG:,[Conexion.py:,45:],Estado de pool<psycopg2.pool.SimpleConnectionPool object at 0x026C8298>:
+09:51:57 PM:,DEBUG:,[Cursor_pool.py:,26:],liberando conexion:

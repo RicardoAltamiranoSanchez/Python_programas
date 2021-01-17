@@ -1,0 +1,442 @@
+08:07:28 PM:,WARNING:,[logger_base.py:,11:],Mensaje de de peligro:
+08:07:28 PM:,DEBUG:,[logger_base.py:,12:],Mensaje de debug:
+08:07:28 PM:,INFO:,[logger_base.py:,13:],Mensaje de info:
+08:27:04 PM:,ERROR:,[conexion.py:,26:],Error en la conexion invalid dsn: invalid connection option "username"
+:
+08:27:47 PM:,ERROR:,[conexion.py:,26:],Error en la conexion invalid dsn: invalid connection option "username"
+:
+08:28:52 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0285F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:36:12 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0253F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:36:12 PM:,ERROR:,[conexion.py:,37:],Error al abrir el cursor:
+08:36:25 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0217F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:36:25 PM:,ERROR:,[conexion.py:,37:],Error al abrir el cursor:
+08:37:16 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0220F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:37:16 PM:,ERROR:,[conexion.py:,37:],Error al abrir el cursor:
+08:37:46 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02A5F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:37:46 PM:,ERROR:,[conexion.py:,37:],Error al abrir el cursor:
+08:38:25 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02CB11F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:38:25 PM:,ERROR:,[conexion.py:,37:],Error al abrir el cursor:
+08:41:09 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0272F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:41:09 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02655DA8; closed: 0>:
+08:41:21 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0279F1F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:41:21 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x026C6DA8; closed: 0>:
+08:45:55 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x030B11F0; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+08:45:55 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02FC8DA8; closed: 0>:
+08:45:55 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+08:59:39 PM:,DEBUG:,[persona.py:,39:],Id_persiona=None,Nombre=Ricado,Apellido=Altamirano,Correo=ricardo@gmail.com:
+09:00:13 PM:,DEBUG:,[persona.py:,39:],Id_persiona=None
+Nombre=Ricado
+Apellido=Altamirano
+Correo=ricardo@gmail.com
+:
+09:00:31 PM:,DEBUG:,[persona.py:,39:],Id_persiona=None
+Nombre=Ricado
+Apellido=Altamirano
+Correo=ricardo@gmail.com
+:
+09:00:46 PM:,DEBUG:,[persona.py:,39:],
+Id_persiona=None
+Nombre=Ricado
+Apellido=Altamirano
+Correo=ricardo@gmail.com
+:
+09:17:32 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x025D3450; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:17:32 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x024B8C28; closed: 0>:
+09:17:32 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona;':
+09:18:48 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0241B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:18:48 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023179A8; closed: 0>:
+09:18:48 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:18:50 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02C5B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:18:50 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02B579A8; closed: 0>:
+09:18:50 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:20:03 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x024AB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:20:03 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x022979A8; closed: 0>:
+09:20:03 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:20:16 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0274B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:20:16 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025479A8; closed: 0>:
+09:20:16 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:21:08 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0262B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:21:08 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025279A8; closed: 0>:
+09:21:08 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:23:04 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02D2B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:23:04 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x029C89A8; closed: 0>:
+09:23:04 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:23:17 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x030AB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:23:17 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02C669A8; closed: 0>:
+09:23:17 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:23:17 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:17 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:17 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:17 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:17 PM:,DEBUG:,[persona_DAO.py:,27:],
+Id_persiona=1
+Nombre=Ricardo
+Apellido=Altamirano
+Correo=ricardo@gmail.com
+:
+09:23:17 PM:,DEBUG:,[persona_DAO.py:,27:],
+Id_persiona=2
+Nombre=Juan
+
+Apellido=Barrientos
+Correo=juan@gamil.ocm
+:
+09:23:17 PM:,DEBUG:,[persona_DAO.py:,27:],
+Id_persiona=3
+Nombre=Miguel
+
+Apellido=Mendoza
+
+Correo=miguel@gmail.com
+
+:
+09:23:17 PM:,DEBUG:,[persona_DAO.py:,27:],
+Id_persiona=4
+Nombre=Jose Jose
+Apellido=Fernandez
+Correo=jose@gmail.com
+:
+09:23:59 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02A5B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:23:59 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x026169A8; closed: 0>:
+09:23:59 PM:,DEBUG:,[persona_DAO.py:,14:],b'SELECT * FROM persona ORDER BY id_persona;':
+09:23:59 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:59 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:59 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:59 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:23:59 PM:,DEBUG:,[persona_DAO.py:,27:],Id_persiona=1Nombre=RicardoApellido=AltamiranoCorreo=ricardo@gmail.com:
+09:23:59 PM:,DEBUG:,[persona_DAO.py:,27:],Id_persiona=2Nombre=Juan
+Apellido=BarrientosCorreo=juan@gamil.ocm:
+09:23:59 PM:,DEBUG:,[persona_DAO.py:,27:],Id_persiona=3Nombre=Miguel
+Apellido=Mendoza
+Correo=miguel@gmail.com
+:
+09:23:59 PM:,DEBUG:,[persona_DAO.py:,27:],Id_persiona=4Nombre=Jose JoseApellido=FernandezCorreo=jose@gmail.com:
+09:39:16 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x028AC288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:39:16 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x026699A8; closed: 0>:
+09:39:16 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:39:16 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:41:25 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0259B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:41:25 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023799A8; closed: 0>:
+09:41:25 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:41:25 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:41:25 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion 'Persona' object is not callable:
+09:41:25 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:41:25 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:41:28 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02BDB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:41:28 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x029889A8; closed: 0>:
+09:41:28 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:41:28 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:41:28 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion 'Persona' object is not callable:
+09:41:28 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:41:28 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:42:26 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0225B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:42:26 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x020499A8; closed: 0>:
+09:42:26 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:42:26 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:42:26 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:42:26 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:42:26 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:42:39 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0291C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:42:39 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x027099A8; closed: 0>:
+09:42:39 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:42:39 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:42:39 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:42:40 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:42:40 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:42:45 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0299C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:42:45 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x028999A8; closed: 0>:
+09:42:45 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:42:45 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:42:46 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:42:46 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:42:46 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:44:04 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0244C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:44:04 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x022499A8; closed: 0>:
+09:44:04 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:44:04 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:44:04 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:44:04 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:44:04 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:44:07 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0278B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:44:07 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025689A8; closed: 0>:
+09:44:07 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:44:07 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:44:07 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:44:07 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:44:07 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:45:36 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0228B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:45:36 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x00F689A8; closed: 0>:
+09:45:36 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:45:36 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:45:36 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:45:36 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:45:36 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:45:39 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02F2C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:45:39 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02D299A8; closed: 0>:
+09:45:39 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:45:39 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:45:39 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:45:39 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:45:39 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:45:40 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0273B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:45:40 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025399A8; closed: 0>:
+09:45:40 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:45:40 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:45:40 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:45:40 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:45:40 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:45:48 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02C9C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:45:48 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02B789A8; closed: 0>:
+09:45:48 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:45:48 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:45:48 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:45:48 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:45:48 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:46:21 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x022DB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:46:21 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x021D99A8; closed: 0>:
+09:46:21 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:46:21 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:46:22 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:46:22 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:46:22 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:46:24 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0267B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:46:24 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x024799A8; closed: 0>:
+09:46:24 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:46:24 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:46:24 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:46:24 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:46:24 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:46:25 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0241B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:46:25 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023199A8; closed: 0>:
+09:46:25 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:46:25 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:46:26 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:46:26 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:46:26 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:46:39 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0269C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:46:39 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x00B999A8; closed: 0>:
+09:46:39 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO  persona(nombre,apellido,correo) VALUES(,%s,%s,%s);':
+09:46:39 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:46:39 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near ","
+LINE 1: ...SERT INTO  persona(nombre,apellido,correo) VALUES(,%s,%s,%s)...
+                                                             ^
+:
+09:46:39 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:46:40 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:49:16 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0276C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:49:16 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025689A8; closed: 0>:
+09:49:16 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s);':
+09:49:16 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:49:16 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...ERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:49:16 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:49:17 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:49:25 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0285B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:49:25 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x026499A8; closed: 0>:
+09:49:25 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s)':
+09:49:25 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:49:25 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s)
+                                                              ^
+:
+09:49:25 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:49:25 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:49:34 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0319B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:49:34 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02F789A8; closed: 0>:
+09:49:34 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s)':
+09:49:34 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:49:34 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...SERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s)
+                                                              ^
+:
+09:49:34 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:49:34 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:49:50 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02A4B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:49:50 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x028489A8; closed: 0>:
+09:49:50 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s,%s);':
+09:49:50 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:49:50 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...ERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s,%...
+                                                             ^
+:
+09:49:50 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:49:50 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:50:49 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x025CC288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:50:49 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x011B89A8; closed: 0>:
+09:50:49 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s);':
+09:50:49 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:50:49 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...ERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:50:49 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:50:49 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:50:54 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0301C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:50:54 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02DE89A8; closed: 0>:
+09:50:54 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s);':
+09:50:54 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:50:54 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...ERT INTO persona(nombre, apellido, correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:50:54 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:50:54 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:52:17 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x023AC288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:52:17 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x021699A8; closed: 0>:
+09:52:17 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre, apellido, correo) VALUES(?,?,?);':
+09:52:17 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:52:17 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near ","
+LINE 1: INSERT INTO persona(nombre, apellido, correo) VALUES(?,?,?);
+                                                              ^
+:
+09:52:17 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:52:17 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:52:43 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0248B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:52:43 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023689A8; closed: 0>:
+09:52:43 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:52:43 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:52:43 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...NSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:52:43 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:52:43 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:53:07 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0272B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:53:07 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025F99A8; closed: 0>:
+09:53:07 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:53:08 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:53:08 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion syntax error at or near "%"
+LINE 1: ...NSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);
+                                                             ^
+:
+09:53:08 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:53:08 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:53:31 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0259B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:53:31 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023899A8; closed: 0>:
+09:53:32 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:53:32 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:53:32 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion can't adapt type 'method':
+09:53:32 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:53:32 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:55:20 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0261B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:55:20 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x012089A8; closed: 0>:
+09:55:20 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:55:20 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:55:20 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion can't adapt type 'method':
+09:55:20 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:55:20 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+09:55:45 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0299B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+09:55:45 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x027489A8; closed: 0>:
+09:55:45 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+09:55:45 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+09:55:45 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion duplicate key value violates unique constraint "persona_pkey"
+DETAIL:  Key (id_persona)=(1) already exists.
+:
+09:55:46 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+09:55:46 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+06:55:48 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0239B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+06:55:49 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x00E789A8; closed: 0>:
+06:55:49 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+06:55:49 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+06:55:49 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion duplicate key value violates unique constraint "persona_pkey"
+DETAIL:  Key (id_persona)=(2) already exists.
+:
+06:55:49 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+06:55:50 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+06:56:02 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02BAB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+06:56:02 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x029889A8; closed: 0>:
+06:56:02 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+06:56:03 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+06:56:03 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion duplicate key value violates unique constraint "persona_pkey"
+DETAIL:  Key (id_persona)=(3) already exists.
+:
+06:56:03 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+06:56:03 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+06:56:16 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0254B288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+06:56:16 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023499A8; closed: 0>:
+06:56:16 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+06:56:16 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+06:56:16 PM:,ERROR:,[persona_DAO.py:,37:],Error al Inserta informacion duplicate key value violates unique constraint "persona_pkey"
+DETAIL:  Key (id_persona)=(4) already exists.
+:
+06:56:17 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+06:56:17 PM:,DEBUG:,[persona_DAO.py:,49:],None:
+07:18:16 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x031CB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:18:16 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x02F999A8; closed: 0>:
+07:18:16 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+07:18:16 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+07:18:16 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:18:16 PM:,DEBUG:,[persona_DAO.py:,49:],1:
+07:18:19 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x023BB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:18:19 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x021B89A8; closed: 0>:
+07:18:19 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+07:18:19 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+07:18:19 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:18:19 PM:,DEBUG:,[persona_DAO.py:,49:],1:
+07:18:21 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x02DBB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:18:21 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x014A99A8; closed: 0>:
+07:18:21 PM:,DEBUG:,[persona_DAO.py:,28:],b'INSERT INTO persona(nombre,apellido,correo) VALUES(%s,%s,%s);':
+07:18:21 PM:,DEBUG:,[persona_DAO.py:,29:],Persona a insertar Id_persiona=NoneNombre=Junito bananaApellido=MachoCorreo=Elmachomenos@gmail.com:
+07:18:21 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:18:21 PM:,DEBUG:,[persona_DAO.py:,49:],1:
+07:32:28 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x022AB288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:32:28 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x020A99A8; closed: 0>:
+07:32:29 PM:,DEBUG:,[persona_DAO.py:,47:],b'UPDATE persona SET nombre=%s,apellido=%s,correo=%s WHERE id_persona=%s;':
+07:32:29 PM:,DEBUG:,[persona_DAO.py:,48:],Actualizacion de la persona {persona}:
+07:32:29 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:32:29 PM:,DEBUG:,[persona_DAO.py:,71:],1:
+07:33:18 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0236C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:33:18 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x021699A8; closed: 0>:
+07:33:18 PM:,DEBUG:,[persona_DAO.py:,47:],b'UPDATE persona SET nombre=%s,apellido=%s,correo=%s WHERE id_persona=%s;':
+07:33:18 PM:,DEBUG:,[persona_DAO.py:,48:],Actualizacion de la persona {persona}:
+07:33:18 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:33:18 PM:,DEBUG:,[persona_DAO.py:,72:],1:
+07:42:05 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0251C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:42:05 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x023199A8; closed: 0>:
+07:42:05 PM:,DEBUG:,[persona_DAO.py:,67:],b'DELETE persona WHERE  id_persona=%s;':
+07:42:05 PM:,ERROR:,[persona_DAO.py:,75:],Error al Eliminar {e}:
+07:42:05 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:42:05 PM:,DEBUG:,[persona_DAO.py:,91:],None:
+07:43:08 PM:,DEBUG:,[conexion.py:,22:],Conexion existosas <connection object at 0x0277C288; dsn: 'user=postgres password=xxx dbname=Personas host=127.0.0.1 port=5432', closed: 0>:
+07:43:08 PM:,DEBUG:,[conexion.py:,36:],Cursor abierto <cursor object at 0x025799A8; closed: 0>:
+07:43:08 PM:,DEBUG:,[persona_DAO.py:,67:],b'DELETE FROM persona WHERE  id_persona=%s;':
+07:43:08 PM:,DEBUG:,[conexion.py:,60:],Cerrado cursor y la conexion exitosamente:
+07:43:08 PM:,DEBUG:,[persona_DAO.py:,91:],1:
